@@ -1,12 +1,12 @@
 # Site settings
-title:KIDSCODA
-email:monaco.federico@gmail.com
-description:KIDSCODA
+title: KIDSCODA
+email: monaco.federico@gmail.com
+description: KIDSCODA
 baseurl: "https://kidscoda.github.io/" # the subpath of your site, e.g. /blog/
 url: "https://kidscoda.github.io/" # the base hostname & protocol for your site
 
 twitter_username:
-github_username:https://github.com/kidscoda/kidscoda.github.io
+github_username: https://github.com/kidscoda/kidscoda.github.io
 
 # Build settings
 markdown: kramdown

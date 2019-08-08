@@ -10,3 +10,5 @@ github_username: https://github.com/kidscoda/kidscoda.github.io
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman

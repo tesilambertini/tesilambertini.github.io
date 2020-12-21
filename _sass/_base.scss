@@ -155,7 +155,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('https://github.com/tesilambertini/tesilambertini.github.io/blob/master/img/header.jpg');
+    background-image: url('../img/header.jpg');
     text-align: center;
     color: white;
     .header-content {
